@@ -32,6 +32,7 @@ namespace Hotel.Controllers
 
             var cliente = from c in _context.Cliente
                           join t in _context.TipoDoc on c.tipoId equals t.id
+                          where c.estado == true
                           select new ClienteFrontEnd
                           {
                               id = c.id,
@@ -40,7 +41,8 @@ namespace Hotel.Controllers
                               tipoId=t.id,
                               tipoDoc=t.tipo,
                               numeroDoc=c.numeroDoc,
-                              telefono=c.telefono
+                              telefono=c.telefono,
+                              estado=c.estado
                           };
             switch (ordenar)
             {
@@ -181,7 +183,11 @@ namespace Hotel.Controllers
             {
                 if (usuario == null)
                 {
-                    _context.Cliente.Remove(cliente);
+
+                    // Lógica de eliminación 
+                    cliente.estado = false; // 0
+                    //_context.Cliente.Remove(cliente);
+                    _context.Cliente.Update(cliente);
                 }
                 else
                 {

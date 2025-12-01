@@ -21,6 +21,7 @@
                 <th><a asp-action="Index" asp-route-ordenar="@ViewData["NumDocSortParm"]" class="text-secondary text-decoration-none">Tipo Doc.</a></th>
                 <th><a asp-action="Index" asp-route-ordenar="@ViewData["NumDocSortParm"]" class="text-secondary text-decoration-none">N° Documento</a></th>
                 <th><a asp-action="Index" asp-route-ordenar="@ViewData["NumDocSortParm"]" class="text-secondary text-decoration-none">Teléfono</a></th>
+                <th><a asp-action="Index" asp-route-ordernar="@ViewData["NumDocSortParm"]" class="text-secondary text-decoration-none">Estado</a></th>
                 <th></th>
             </tr>
         </thead>
@@ -33,6 +34,16 @@
                     <td>@cliente.tipoDoc</td>
                     <td>@cliente.numeroDoc</td>
                     <td>@cliente.telefono</td>
+                    <td>
+                        @if (cliente.estado)
+                        {
+                            <span class="badge bg-success">Habilitado</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger">Deshabilitado</span>
+                        }
+                    </td>
                     <td>
                         <a asp-action="Edit" asp-route-id="@cliente.id" class="btn btn-warning">Modificar</a>
                         @if(tipoUsuario=="ADMIN"){
