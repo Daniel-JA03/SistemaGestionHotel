@@ -9,5 +9,6 @@
         public string? tipoDoc { get; set; }
         public string? numeroDoc { get; set; }
         public string? telefono { get; set; }
+        public bool estado { get; set; } 
     }
 }

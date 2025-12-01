@@ -11,13 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Hotel")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f7b01c8b33a6b5853621cb4038d21ca5081f440")]
-[assembly: System.Reflection.AssemblyProductAttribute("Hotel")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Hotel")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Rotativa.AspNetCore")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
