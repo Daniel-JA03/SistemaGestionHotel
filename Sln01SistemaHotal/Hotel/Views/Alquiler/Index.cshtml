@@ -23,20 +23,34 @@
 <h1>Listado de Alquiler</h1>
 
 <form method="get" action="@Url.Action("Index")">
-    <div class="row">
-        <div class="col-md-4">
-            <label for="fecha1">Desde</label>
+    <div class="row g-3 align-items-end">
+
+        <div class="col-md-3">
+            <label for="fecha1" class="form-label">Desde</label>
             <input type="date" id="fecha1" name="fecha1" class="form-control" />
         </div>
-        <div class="col-md-4">
-            <label for="fecha2">Hasta</label>
+
+        <div class="col-md-3">
+            <label for="fecha2" class="form-label">Hasta</label>
             <input type="date" id="fecha2" name="fecha2" class="form-control" />
         </div>
-        <div class="col-md-4 align-self-end">
-            <button type="submit" class="btn btn-primary">Buscar</button>
+
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-primary w-100">
+                Buscar
+            </button>
         </div>
+
+        <div class="col-md-2">
+            <a class="btn btn-danger w-100"
+               href="@Url.Action("ExportarPDF", new { fecha1 = ViewBag.Fecha1, fecha2 = ViewBag.Fecha2 })">
+                Descargar PDF
+            </a>
+        </div>
+
     </div>
 </form>
+
 <br />
 <table class="table table-striped">
     <thead>

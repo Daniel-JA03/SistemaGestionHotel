@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Hotel.ViewModels.ListaAlquilerFrontEnd>
+@{
+    Layout = null;
+}
+
+<div style="width:100%; display:flex; align-items:center; margin-bottom:20px;">
+  
+    <img src="@ViewBag.Logo"
+         style="width:150px; height:150px; object-fit:cover; margin-right:20px;" />
+
+
+   
+    <h1 style="flex:1; text-align:center; margin:0; font-size:28px;">
+        Reporte de Alquileres
+    </h1>
+</div>
+
+<table border="1" width="100%" cellspacing="0" cellpadding="6" style="font-size:14px; border-collapse:collapse;">
+    <thead style="background:#f0f0f0;">
+        <tr>
+            <th>Hab.</th>
+            <th>Cliente</th>
+            <th>Documento</th>
+            <th>Días</th>
+            <th>Precio</th>
+            <th>Entrada</th>
+            <th>Salida</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.numHab</td>
+                <td>@item.nombre</td>
+                <td>@item.documento</td>
+                <td>@item.dias</td>
+                <td>@item.precio.ToString("C")</td>
+                <td>@item.fechaEntrada?.ToString("yyyy-MM-dd")</td>
+                <td>@item.fechaSalida?.ToString("yyyy-MM-dd")</td>
+                <td>@item.total.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
