@@ -155,6 +155,14 @@ namespace Hotel.Controllers
 
 
             var clienteExistente = await _context.Cliente.FirstOrDefaultAsync(c => c.numeroDoc == modelo.Documento);
+
+            if (clienteExistente != null)
+            {
+                clienteExistente.estado = true;
+                _context.Cliente.Update(clienteExistente);
+                await _context.SaveChangesAsync();
+            }
+
             if (clienteExistente == null)
             {
                 var cliente = new Cliente
@@ -163,7 +171,8 @@ namespace Hotel.Controllers
                     apellido = modelo.Apellido,
                     numeroDoc = modelo.Documento,
                     tipoId = modelo.tipoDocId,
-                    telefono = modelo.Telefono
+                    telefono = modelo.Telefono,
+                    estado = true
                 };
                 _context.Cliente.Add(cliente);
                 await _context.SaveChangesAsync();

@@ -32,7 +32,6 @@ namespace Hotel.Controllers
 
             var cliente = from c in _context.Cliente
                           join t in _context.TipoDoc on c.tipoId equals t.id
-                          where c.estado == true
                           select new ClienteFrontEnd
                           {
                               id = c.id,
