@@ -16,6 +16,10 @@ numeroDoc varchar(15) unique,
 telefono varchar(15)
 );
 go
+-- Nuevo campo para la tabla cliente
+alter table cliente
+add estado bit not null default 1;
+
 create table tipoHab(
 id int identity primary key,
 tipo varchar(15),
