@@ -170,7 +170,7 @@ namespace Hotel.Controllers
                     nombre = modelo.Nombre,
                     apellido = modelo.Apellido,
                     numeroDoc = modelo.Documento,
-                    tipoId = modelo.tipoDocId,
+                    tipoId = modelo.tipoDocId ?? 0,
                     telefono = modelo.Telefono,
                     estado = true
                 };
