@@ -1,33 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\",
+  "WorkspaceRootPath": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|c:\\users\\daniel\\onedrive\\escritorio\\cibertec\\6to ciclo\\proyecto integrador\\sistemagestionhotel\\sln01sistemahotal\\hotel\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\views\\alquiler\\exportarpdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\alquiler\\exportarpdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\views\\alquiler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\alquiler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\controllers\\alquilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controllers\\alquilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\viewmodels\\listaalquilerfrontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\viewmodels\\listaalquilerfrontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\viewmodels\\alquilerfrontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\viewmodels\\alquilerfrontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|c:\\users\\daniel\\onedrive\\escritorio\\cibertec\\6to ciclo\\proyecto integrador\\sistemagestionhotel\\sln01sistemahotal\\hotel\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|c:\\users\\daniel\\onedrive\\escritorio\\cibertec\\6to ciclo\\proyecto integrador\\sistemagestionhotel\\sln01sistemahotal\\hotel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|c:\\users\\daniel\\onedrive\\escritorio\\cibertec\\6to ciclo\\proyecto integrador\\sistemagestionhotel\\sln01sistemahotal\\hotel\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|c:\\users\\daniel\\onedrive\\escritorio\\cibertec\\6to ciclo\\proyecto integrador\\sistemagestionhotel\\sln01sistemahotal\\hotel\\viewmodels\\clientefrontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\viewmodels\\clientefrontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\viewmodels\\clientefrontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|c:\\users\\daniel\\onedrive\\escritorio\\cibertec\\6to ciclo\\proyecto integrador\\sistemagestionhotel\\sln01sistemahotal\\hotel\\data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|c:\\users\\daniel\\onedrive\\escritorio\\cibertec\\6to ciclo\\proyecto integrador\\sistemagestionhotel\\sln01sistemahotal\\hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|d:\\doscumentos chris\\estudios\\ciclo vi\\proyecto integrador\\proyecto\\proyectointegrador(ci)\\sln01sistemahotal\\hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{16AFE51B-AB3A-450D-918B-44DFB3AB896A}|Hotel\\Hotel.csproj|solutionrelative:hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -38,8 +58,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -55,93 +79,154 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Hotel\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Models\\Cliente.cs",
-              "RelativeToolTip": "Hotel\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
+              "Title": "AlquilerController.cs",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Controllers\\AlquilerController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controllers\\AlquilerController.cs",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Controllers\\AlquilerController.cs",
+              "RelativeToolTip": "Hotel\\Controllers\\AlquilerController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T19:30:46.343Z",
+              "WhenOpened": "2025-12-02T03:37:53.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaAlquilerFrontEnd.cs",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\ViewModels\\ListaAlquilerFrontEnd.cs",
+              "RelativeDocumentMoniker": "Hotel\\ViewModels\\ListaAlquilerFrontEnd.cs",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\ViewModels\\ListaAlquilerFrontEnd.cs",
+              "RelativeToolTip": "Hotel\\ViewModels\\ListaAlquilerFrontEnd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:28:55.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlquilerFrontEnd.cs",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\ViewModels\\AlquilerFrontEnd.cs",
+              "RelativeDocumentMoniker": "Hotel\\ViewModels\\AlquilerFrontEnd.cs",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\ViewModels\\AlquilerFrontEnd.cs",
+              "RelativeToolTip": "Hotel\\ViewModels\\AlquilerFrontEnd.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:33:35.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExportarPDF.cshtml",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Views\\Alquiler\\ExportarPDF.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\Alquiler\\ExportarPDF.cshtml",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Views\\Alquiler\\ExportarPDF.cshtml*",
+              "RelativeToolTip": "Hotel\\Views\\Alquiler\\ExportarPDF.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T03:21:06.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Views\\Cliente\\Index.cshtml",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Views\\Alquiler\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\Alquiler\\Index.cshtml",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Views\\Alquiler\\Index.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\Alquiler\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T03:20:37.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\Cliente.cs",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Models\\Cliente.cs",
+              "RelativeToolTip": "Hotel\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:30:46.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Views\\Cliente\\Index.cshtml",
               "RelativeDocumentMoniker": "Hotel\\Views\\Cliente\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Views\\Cliente\\Index.cshtml",
               "RelativeToolTip": "Hotel\\Views\\Cliente\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-01T19:29:25.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ClienteFrontEnd.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\ViewModels\\ClienteFrontEnd.cs",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\ViewModels\\ClienteFrontEnd.cs",
               "RelativeDocumentMoniker": "Hotel\\ViewModels\\ClienteFrontEnd.cs",
-              "ToolTip": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\ViewModels\\ClienteFrontEnd.cs",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\ViewModels\\ClienteFrontEnd.cs",
               "RelativeToolTip": "Hotel\\ViewModels\\ClienteFrontEnd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T19:29:16.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "HotelContext.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Data\\HotelContext.cs",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Data\\HotelContext.cs",
               "RelativeDocumentMoniker": "Hotel\\Data\\HotelContext.cs",
-              "ToolTip": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Data\\HotelContext.cs",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Data\\HotelContext.cs",
               "RelativeToolTip": "Hotel\\Data\\HotelContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T19:32:57.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T19:32:57.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Controllers\\ClienteController.cs",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Hotel\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Hotel\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAAALoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T19:31:25.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Views\\Cliente\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Views\\Cliente\\Delete.cshtml",
               "RelativeDocumentMoniker": "Hotel\\Views\\Cliente\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Views\\Cliente\\Delete.cshtml",
               "RelativeToolTip": "Hotel\\Views\\Cliente\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T19:35:10.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T19:35:10.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\appsettings.json",
+              "DocumentMoniker": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\appsettings.json",
               "RelativeDocumentMoniker": "Hotel\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\appsettings.json",
+              "ToolTip": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\appsettings.json",
               "RelativeToolTip": "Hotel\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-27T17:54:30.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T17:54:30.621Z"
             }
           ]
         }

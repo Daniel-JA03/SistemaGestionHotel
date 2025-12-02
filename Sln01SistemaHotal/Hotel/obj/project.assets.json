@@ -7395,23 +7395,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel\\.nuget\\packages\\": {},
+    "C:\\Users\\peral\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Hotel.csproj",
+      "projectUniqueName": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Hotel.csproj",
       "projectName": "Hotel",
-      "projectPath": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\Hotel.csproj",
-      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\OneDrive\\Escritorio\\CIBERTEC\\6to CICLO\\PROYECTO INTEGRADOR\\SistemaGestionHotel\\Sln01SistemaHotal\\Hotel\\obj\\",
+      "projectPath": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\Hotel.csproj",
+      "packagesPath": "C:\\Users\\peral\\.nuget\\packages\\",
+      "outputPath": "D:\\Doscumentos Chris\\Estudios\\Ciclo VI\\Proyecto Integrador\\Proyecto\\ProyectoIntegrador(CI)\\Sln01SistemaHotal\\Hotel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\peral\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7420,6 +7420,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7486,7 +7487,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

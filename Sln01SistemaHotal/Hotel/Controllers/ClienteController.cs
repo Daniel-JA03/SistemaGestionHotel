@@ -43,6 +43,8 @@ namespace Hotel.Controllers
                               telefono=c.telefono,
                               estado=c.estado
                           };
+            cliente = cliente.Where(c => c.estado == true); // Filtra solo los clientes con estado TRUE
+            
             switch (ordenar)
             {
                 case "num_doc_des":

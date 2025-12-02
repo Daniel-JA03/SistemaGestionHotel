@@ -17,81 +17,81 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hotel
 build_property.RootNamespace = Hotel
-build_property.ProjectDir = C:\Users\Daniel\OneDrive\Escritorio\CIBERTEC\6to CICLO\PROYECTO INTEGRADOR\SistemaGestionHotel\Sln01SistemaHotal\Hotel\
+build_property.ProjectDir = D:\Doscumentos Chris\Estudios\Ciclo VI\Proyecto Integrador\Proyecto\ProyectoIntegrador(CI)\Sln01SistemaHotal\Hotel\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Daniel\OneDrive\Escritorio\CIBERTEC\6to CICLO\PROYECTO INTEGRADOR\SistemaGestionHotel\Sln01SistemaHotal\Hotel
+build_property.MSBuildProjectDirectory = D:\Doscumentos Chris\Estudios\Ciclo VI\Proyecto Integrador\Proyecto\ProyectoIntegrador(CI)\Sln01SistemaHotal\Hotel
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Acceso/Create.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Acceso/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Acceso/Delete.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Acceso/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Acceso/Edit.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Acceso/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Acceso/Index.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Acceso/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Alquiler/ExportarPDF.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Alquiler/ExportarPDF.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJcRXhwb3J0YXJQREYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Alquiler/Index.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Alquiler/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Cliente/Delete.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Cliente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Cliente/Edit.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Cliente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Cliente/Index.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Habitacion/Index.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Habitacion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Habitacion/RegistrarAlquiler.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Habitacion/RegistrarAlquiler.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxSZWdpc3RyYXJBbHF1aWxlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Login/Login.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Shared/Error.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/_ViewImports.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/_ViewStart.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/OneDrive/Escritorio/CIBERTEC/6to CICLO/PROYECTO INTEGRADOR/SistemaGestionHotel/Sln01SistemaHotal/Hotel/Views/Shared/_Layout.cshtml]
+[D:/Doscumentos Chris/Estudios/Ciclo VI/Proyecto Integrador/Proyecto/ProyectoIntegrador(CI)/Sln01SistemaHotal/Hotel/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3yaibmce4x

@@ -1,46 +1,73 @@
 ﻿@model IEnumerable<Hotel.ViewModels.ListaAlquilerFrontEnd>
 @{
+    decimal totalGeneral = Model.Sum(item => item.total);
     Layout = null;
 }
 
-<div style="width:100%; display:flex; align-items:center; margin-bottom:20px;">
-  
-    <img src="@ViewBag.Logo"
-         style="width:150px; height:150px; object-fit:cover; margin-right:20px;" />
+<div class="container-fluid" style="font-family: Arial, sans-serif; color:#333;">
 
+    <!-- Encabezado -->
+    <div class="d-flex align-items-center justify-content-between mb-4 pb-3 border-bottom" style="border-color:#444 !important;">
 
-   
-    <h1 style="flex:1; text-align:center; margin:0; font-size:28px;">
-        Reporte de Alquileres
-    </h1>
-</div>
+        <div class="d-flex align-items-center">
+            <div>
+                <h2 class="mb-1" style="font-size:22px; font-weight:700; letter-spacing:1px; text-transform:uppercase;">
+                    Estado de Cuenta Detallado
+                </h2>
+                <span style="font-size:13px; color:#666;">Reporte de Alquileres</span>
+            </div>
+        </div>
 
-<table border="1" width="100%" cellspacing="0" cellpadding="6" style="font-size:14px; border-collapse:collapse;">
-    <thead style="background:#f0f0f0;">
-        <tr>
-            <th>Hab.</th>
-            <th>Cliente</th>
-            <th>Documento</th>
-            <th>Días</th>
-            <th>Precio</th>
-            <th>Entrada</th>
-            <th>Salida</th>
-            <th>Total</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
+        <div class="text-right" style="font-size:13px;">
+            <p class="mb-0"><strong>Fecha:</strong> @DateTime.Now.ToString("dd/MM/yyyy")</p>
+            <p class="mb-0"><strong>Hora:</strong> @DateTime.Now.ToString("HH:mm:ss")</p>
+        </div>
+    </div>
+
+    <!-- Tabla -->
+    <table class="table table-bordered table-sm"
+           style="font-size:13px; border-color:#999; border-collapse:collapse;">
+
+        <thead style="background:#2d6a4f; color:white; font-weight:600; text-transform:uppercase;">
             <tr>
-                <td>@item.numHab</td>
-                <td>@item.nombre</td>
-                <td>@item.documento</td>
-                <td>@item.dias</td>
-                <td>@item.precio.ToString("C")</td>
-                <td>@item.fechaEntrada?.ToString("yyyy-MM-dd")</td>
-                <td>@item.fechaSalida?.ToString("yyyy-MM-dd")</td>
-                <td>@item.total.ToString("C")</td>
+                <th class="text-center" style="width:6%;">Hab.</th>
+                <th style="width:20%;">Cliente</th>
+                <th style="width:12%;">Documento</th>
+                <th class="text-center" style="width:6%;">Días</th>
+                <th class="text-right" style="width:10%;">Precio/Día</th>
+                <th style="width:15%;">Entrada</th>
+                <th style="width:15%;">Salida</th>
+                <th class="text-right" style="width:12%;">Total</th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="text-center">@item.numHab</td>
+                    <td>@item.nombre</td>
+                    <td>@item.documento</td>
+                    <td class="text-center">@item.dias</td>
+                    <td class="text-right">@item.precio.ToString("C")</td>
+                    <td>@item.fechaEntrada?.ToString("dd/MM/yyyy")</td>
+                    <td>@item.fechaSalida?.ToString("dd/MM/yyyy")</td>
+                    <td class="text-right">@item.total.ToString("C")</td>
+                </tr>
+            }
+            <tr>
+                <td colspan="7" style="text-align: right; font-size: 18px; padding-top: 10px; border-top: 2px solid #555;">Total General</td>
+                <td style="text-align: right; font-size: 18px; padding-top: 10px;  border-top: 2px solid #555;">@totalGeneral.ToString("c")</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    <!-- Pie de página -->
+    <div class="text-center text-muted border-top mt-5 pt-2"
+         style="font-size:11px; background:white;">
+        <p class="mb-1">Hotel Luxury — Dirección: Av.Lima 123 — Tel: +51 999 666 333</p>
+        <p class="mb-0"><em>Documento interno generado el @DateTime.Now.ToString("dd/MM/yyyy HH:mm").</em></p>
+    </div>
+
+</div>
